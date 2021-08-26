@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://balaji141031.github.io/csb-j8he1/static/css/main.1f753026.chunk.css",
+    "main.js": "https://balaji141031.github.io/csb-j8he1/static/js/main.a2eb4849.chunk.js",
+    "main.js.map": "https://balaji141031.github.io/csb-j8he1/static/js/main.a2eb4849.chunk.js.map",
+    "runtime-main.js": "https://balaji141031.github.io/csb-j8he1/static/js/runtime-main.25feaf72.js",
+    "runtime-main.js.map": "https://balaji141031.github.io/csb-j8he1/static/js/runtime-main.25feaf72.js.map",
+    "static/js/2.920e6c87.chunk.js": "https://balaji141031.github.io/csb-j8he1/static/js/2.920e6c87.chunk.js",
+    "static/js/2.920e6c87.chunk.js.map": "https://balaji141031.github.io/csb-j8he1/static/js/2.920e6c87.chunk.js.map",
+    "index.html": "https://balaji141031.github.io/csb-j8he1/index.html",
+    "static/css/main.1f753026.chunk.css.map": "https://balaji141031.github.io/csb-j8he1/static/css/main.1f753026.chunk.css.map",
+    "static/js/2.920e6c87.chunk.js.LICENSE.txt": "https://balaji141031.github.io/csb-j8he1/static/js/2.920e6c87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25feaf72.js",
+    "static/js/2.920e6c87.chunk.js",
+    "static/css/main.1f753026.chunk.css",
+    "static/js/main.a2eb4849.chunk.js"
+  ]
+}
